@@ -22,8 +22,8 @@ requirements:
     - hatchling
   run:
     - python >={{ python_min }}
-    - regionate >=0.5.0
-    - xwmt >=0.1.0
+    - regionate >=0.5.5
+    - xwmt >=0.2.0
 
 test:
   requires:
